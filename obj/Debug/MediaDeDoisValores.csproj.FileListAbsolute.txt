@@ -1,0 +1,7 @@
+C:\Users\wesle\Documents\estudo\CasaDoUsuario\MediaDeDoisValores\MediaDeDoisValores\bin\Debug\MediaDeDoisValores.exe.config
+C:\Users\wesle\Documents\estudo\CasaDoUsuario\MediaDeDoisValores\MediaDeDoisValores\bin\Debug\MediaDeDoisValores.exe
+C:\Users\wesle\Documents\estudo\CasaDoUsuario\MediaDeDoisValores\MediaDeDoisValores\bin\Debug\MediaDeDoisValores.pdb
+C:\Users\wesle\Documents\estudo\CasaDoUsuario\MediaDeDoisValores\MediaDeDoisValores\obj\Debug\MediaDeDoisValores.csproj.AssemblyReference.cache
+C:\Users\wesle\Documents\estudo\CasaDoUsuario\MediaDeDoisValores\MediaDeDoisValores\obj\Debug\MediaDeDoisValores.csproj.CoreCompileInputs.cache
+C:\Users\wesle\Documents\estudo\CasaDoUsuario\MediaDeDoisValores\MediaDeDoisValores\obj\Debug\MediaDeDoisValores.exe
+C:\Users\wesle\Documents\estudo\CasaDoUsuario\MediaDeDoisValores\MediaDeDoisValores\obj\Debug\MediaDeDoisValores.pdb
